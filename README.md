@@ -2,8 +2,6 @@
 
 A static frontend replica of the Amazon e-commerce homepage built entirely with HTML and CSS. This project focuses on modern UI layout techniques, utilizing CSS Flexbox to structure a complex, multi-section web page without the use of external CSS frameworks.
 
-**Live Demo:** [View the Live Site](https://harsh-deep23.github.io/Amazon-clone/)
-
 ## Technologies Used
 * **HTML5:** Semantic page structuring.
 * **CSS3:** Custom styling, Flexbox layouts, hover states, and box-model management.
